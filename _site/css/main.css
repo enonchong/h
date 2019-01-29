@@ -104,7 +104,7 @@ header {
       background-position: calc(50% - 300px) calc(100% + 20px); }
       header.main-hero {
         height: 70vh;
-        background-position: calc(50% - 350px) calc(100%); }
+        background-position: calc(40% - 350px) calc(100%); }
       header .container {
         text-align: right; } }
   header nav {
